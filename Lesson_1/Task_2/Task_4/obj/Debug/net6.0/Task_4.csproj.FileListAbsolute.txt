@@ -1,0 +1,16 @@
+D:\C_Sharp_Homework\Lesson_1\Task_2\Task_4\bin\Debug\net6.0\Task_4.exe
+D:\C_Sharp_Homework\Lesson_1\Task_2\Task_4\bin\Debug\net6.0\Task_4.deps.json
+D:\C_Sharp_Homework\Lesson_1\Task_2\Task_4\bin\Debug\net6.0\Task_4.runtimeconfig.json
+D:\C_Sharp_Homework\Lesson_1\Task_2\Task_4\bin\Debug\net6.0\Task_4.dll
+D:\C_Sharp_Homework\Lesson_1\Task_2\Task_4\bin\Debug\net6.0\ref\Task_4.dll
+D:\C_Sharp_Homework\Lesson_1\Task_2\Task_4\bin\Debug\net6.0\Task_4.pdb
+D:\C_Sharp_Homework\Lesson_1\Task_2\Task_4\obj\Debug\net6.0\Task_4.GlobalUsings.g.cs
+D:\C_Sharp_Homework\Lesson_1\Task_2\Task_4\obj\Debug\net6.0\Task_4.csproj.AssemblyReference.cache
+D:\C_Sharp_Homework\Lesson_1\Task_2\Task_4\obj\Debug\net6.0\Task_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp_Homework\Lesson_1\Task_2\Task_4\obj\Debug\net6.0\Task_4.AssemblyInfoInputs.cache
+D:\C_Sharp_Homework\Lesson_1\Task_2\Task_4\obj\Debug\net6.0\Task_4.AssemblyInfo.cs
+D:\C_Sharp_Homework\Lesson_1\Task_2\Task_4\obj\Debug\net6.0\Task_4.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Homework\Lesson_1\Task_2\Task_4\obj\Debug\net6.0\Task_4.dll
+D:\C_Sharp_Homework\Lesson_1\Task_2\Task_4\obj\Debug\net6.0\ref\Task_4.dll
+D:\C_Sharp_Homework\Lesson_1\Task_2\Task_4\obj\Debug\net6.0\Task_4.pdb
+D:\C_Sharp_Homework\Lesson_1\Task_2\Task_4\obj\Debug\net6.0\Task_4.genruntimeconfig.cache
