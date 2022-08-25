@@ -1,0 +1,16 @@
+D:\C_Sharp_Homework\Task_10\obj\Debug\net6.0\Task_10.GlobalUsings.g.cs
+D:\C_Sharp_Homework\Task_10\obj\Debug\net6.0\Task_10.csproj.AssemblyReference.cache
+D:\C_Sharp_Homework\Task_10\obj\Debug\net6.0\Task_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_Sharp_Homework\Task_10\obj\Debug\net6.0\Task_10.AssemblyInfoInputs.cache
+D:\C_Sharp_Homework\Task_10\obj\Debug\net6.0\Task_10.AssemblyInfo.cs
+D:\C_Sharp_Homework\Task_10\obj\Debug\net6.0\Task_10.csproj.CoreCompileInputs.cache
+D:\C_Sharp_Homework\Task_10\bin\Debug\net6.0\Task_10.exe
+D:\C_Sharp_Homework\Task_10\bin\Debug\net6.0\Task_10.deps.json
+D:\C_Sharp_Homework\Task_10\bin\Debug\net6.0\Task_10.runtimeconfig.json
+D:\C_Sharp_Homework\Task_10\bin\Debug\net6.0\Task_10.dll
+D:\C_Sharp_Homework\Task_10\bin\Debug\net6.0\ref\Task_10.dll
+D:\C_Sharp_Homework\Task_10\bin\Debug\net6.0\Task_10.pdb
+D:\C_Sharp_Homework\Task_10\obj\Debug\net6.0\Task_10.dll
+D:\C_Sharp_Homework\Task_10\obj\Debug\net6.0\ref\Task_10.dll
+D:\C_Sharp_Homework\Task_10\obj\Debug\net6.0\Task_10.pdb
+D:\C_Sharp_Homework\Task_10\obj\Debug\net6.0\Task_10.genruntimeconfig.cache
